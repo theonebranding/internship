@@ -1,5 +1,8 @@
+# Internship 2025-2026 
+---
+---
 
-# Internship Project Lists – README
+## Internship Project Lists – README
 
 This repository contains project allocations and descriptions for interns across three institutes: **C.P. Patel**, **St. Stephen**, and **SPEC**.
 Each section includes links to the project sheets and the common project description document, along with internship schedule and company information.
