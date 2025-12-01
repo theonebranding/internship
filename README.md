@@ -41,10 +41,19 @@ List of all students, their batch, and assigned project names:
 Details of every project mentioned in the sheet:
 **Link:** [https://docs.google.com/document/d/1iM30u189eWVZf2MLS5x-T_Cdgj4G3oZMgRbTax_jbnU/edit?usp=sharing](https://docs.google.com/document/d/1iM30u189eWVZf2MLS5x-T_Cdgj4G3oZMgRbTax_jbnU/edit?usp=sharing)
 
-### **Internship Duration**
+# Info- Internship Duration
+## Batch 1 and 2 - Afternoon Batch
+Start Date : 25th October 2025
+End Date : 27th November 2025
 
-* **Start Date:** 25 October 2025
-* **End Date:** 27 November 2025
+## Batch 3 - Morning  Batch
+ Start Date : 4th November 2025
+End Date : 29th November 2025
+
+## Batch 4 - Evening Batch
+Start Date : 7th November 2025
+End Date : 2th December 2025
+
 
 ---
 ---
